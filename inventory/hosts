@@ -3,5 +3,5 @@ surya1
 surya2
 
 [instances:vars]
-user_name=deva
+user_name=inder
 user_des="Dev Team User"
