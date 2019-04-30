@@ -1,6 +1,6 @@
 [instances]
-instance1
-instance2
+instancesurya1
+instancesurya2
 
 [instances:vars]
 user_name=inder
